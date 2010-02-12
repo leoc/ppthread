@@ -1,5 +1,4 @@
-h1. What!?
+# What is that?
 
-A simple c++ wrapper around the pthread library.
-Written for educational purposes and to simplify my life for
-my further c++ projects.
+This is a simple c++ wrapper around the pthread library.
+It was written for educational purposes.
